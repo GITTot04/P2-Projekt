@@ -9,11 +9,6 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
-/P2-Unity-Project/Library
-P2-Unity-Project\Library\ArtifactDB
-/P2-Unity-Project\Library\ArtifactDB
-P2-Unity-Project/Library/ArtifactDB
-/P2-Unity-Project/Library/ArtifactDB
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
