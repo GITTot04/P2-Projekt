@@ -28,10 +28,7 @@ public class Swiping : MonoBehaviour
             }
         }
     }
-    /// <summary>
-    /// Additively loads a new scene and moves it onto the screen from the left
-    /// </summary>
-    /// <param name="buildIndex"></param>
+
     void SwipeLeft(int buildIndex)
     {
         if (GameControllerScript.gameController.canSwipe == true && buildIndex != 5)
@@ -47,10 +44,7 @@ public class Swiping : MonoBehaviour
             GameControllerScript.gameController.canSwipe = false;
         }
     }
-    /// <summary>
-    /// Additively loads a new scene and moves it onto the screen from the right
-    /// </summary>
-    /// <param name="buildIndex"></param>
+
     void SwipeRight(int buildIndex)
     {
         if (GameControllerScript.gameController.canSwipe == true && buildIndex != 0)
