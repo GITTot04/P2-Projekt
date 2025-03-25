@@ -39,6 +39,7 @@ public class SceneInitiator : MonoBehaviour
         {
             currentActiveSceneIndex = 1;
         }
+        GameControllerScript.gameController.timerActive = true;
     }
 
     private void Update()
