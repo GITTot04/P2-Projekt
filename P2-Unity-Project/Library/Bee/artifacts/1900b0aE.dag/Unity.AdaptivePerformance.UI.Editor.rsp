@@ -394,7 +394,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.37f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.37f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.37f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
-"Library/PackageCache/com.unity.adaptiveperformance@5e96ea40f562/Editor/UI/UsageDial.cs"
+"Library/PackageCache/com.unity.adaptiveperformance@ffde895a1c6a/Editor/UI/UsageDial.cs"
 -langversion:9.0
 /unsafe+
 /deterministic
