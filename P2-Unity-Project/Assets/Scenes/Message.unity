@@ -478,7 +478,7 @@ GameObject:
   - component: {fileID: 409056187}
   - component: {fileID: 409056186}
   m_Layer: 0
-  m_Name: et4g
+  m_Name: TextBoble
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1392,6 +1392,37 @@ Transform:
   - {fileID: 289379620}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1770004977
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1770004978}
+  m_Layer: 0
+  m_Name: ee
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1770004978
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1770004977}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.0666454, y: 1.4104977, z: -6.0364685}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1902127868
 GameObject:
   m_ObjectHideFlags: 0
@@ -1728,7 +1759,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55168a10f231fcb40a464de9305b4e41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  profilePic: {fileID: -8206704044095482331, guid: cd375d67a1ff42e4488eb43a25a8a103, type: 3}
+  profilePic: {fileID: -7679806143118709134, guid: 10b4741797340f8489b24e3a2534e73b, type: 3}
   messageBoble: {fileID: 409056184}
   messageText: {fileID: 1924353341}
   messages:
@@ -1736,6 +1767,8 @@ MonoBehaviour:
   - We are NOT gamers in distress, we are GAMERS IN POWER!!!!!
   - Send Nudes
   - I believe that we should legalize something, not sure what tho
+  - Play games, Gain Bitches
+  - Who is my best friend from somewhere far below this line of balls
   randomNumber: 0
   emojiButton: {fileID: 997050169}
   emojiPanel: {fileID: 1705106315}
@@ -1857,3 +1890,4 @@ SceneRoots:
   - {fileID: 1705106317}
   - {fileID: 1037975109}
   - {fileID: 983615052}
+  - {fileID: 1770004978}
